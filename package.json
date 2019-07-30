@@ -20,5 +20,18 @@
   "bugs": {
     "url": "https://github.com/prescindivel/ionic-cordova-multidex/issues"
   },
-  "homepage": "https://github.com/prescindivel/ionic-cordova-multidex#readme"
+  "homepage": "https://github.com/prescindivel/ionic-cordova-multidex#readme",
+  "cordova": {
+    "id": "prescindivel.cordova.plugins.multidex",
+    "platforms": [
+      "android"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "license": "MIT"
 }
