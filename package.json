@@ -1,5 +1,5 @@
 {
-  "name": "cordova-multidex",
+  "name": "ionic-cordova-multidex",
   "version": "1.0.0",
   "description": "Enable android multidex mode",
   "main": "updateMultidexManifest.js",
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwal149/cordova-multidex.git"
+    "url": "git+https://github.com/prescindivel/ionic-cordova-multidex.git"
   },
   "keywords": [
+    "ionic",
     "cordova",
     "android",
     "multidex"
   ],
   "author": "jwal149",
   "bugs": {
-    "url": "https://github.com/jwal149/cordova-multidex/issues"
+    "url": "https://github.com/prescindivel/ionic-cordova-multidex/issues"
   },
-  "homepage": "https://github.com/jwal149/cordova-multidex#readme"
+  "homepage": "https://github.com/prescindivel/ionic-cordova-multidex#readme"
 }
