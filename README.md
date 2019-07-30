@@ -1,3 +1,3 @@
-# Multidex plugins for cordova
+# Multidex plugins for ionic cordova
 
 This plugin do and only do add the Multidex to AndroidManifest.xml following rules in: http://developer.android.com/tools/building/multidex.html
